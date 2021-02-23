@@ -10,4 +10,8 @@ class NewClass {
     func newClassFunc() {
         print("new class func")
     }
+    
+    func func2() {
+        print("new func!!")
+    }
 }
