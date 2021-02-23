@@ -13,6 +13,7 @@
 		174CACBC25E503F200562D37 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 174CACBA25E503F200562D37 /* Main.storyboard */; };
 		174CACBE25E503F300562D37 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 174CACBD25E503F300562D37 /* Assets.xcassets */; };
 		174CACC125E503F300562D37 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 174CACBF25E503F300562D37 /* LaunchScreen.storyboard */; };
+		174CACCA25E504BF00562D37 /* NewClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 174CACC925E504BF00562D37 /* NewClass.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		174CACBD25E503F300562D37 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		174CACC025E503F300562D37 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		174CACC225E503F300562D37 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		174CACC925E504BF00562D37 /* NewClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewClass.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				174CACBD25E503F300562D37 /* Assets.xcassets */,
 				174CACBF25E503F300562D37 /* LaunchScreen.storyboard */,
 				174CACC225E503F300562D37 /* Info.plist */,
+				174CACC925E504BF00562D37 /* NewClass.swift */,
 			);
 			path = GitTestProject;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				174CACB925E503F200562D37 /* ViewController.swift in Sources */,
+				174CACCA25E504BF00562D37 /* NewClass.swift in Sources */,
 				174CACB525E503F200562D37 /* AppDelegate.swift in Sources */,
 				174CACB725E503F200562D37 /* SceneDelegate.swift in Sources */,
 			);
