@@ -13,7 +13,10 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("Hello world!")
     }
-
+    
+    func newBranchFunc() {
+        print("Hello branch")
+    }
 
 }
 
